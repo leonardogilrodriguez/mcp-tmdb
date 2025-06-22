@@ -351,15 +351,11 @@ Example output of available jobs:
 
 ### two_actors_on_screen
 
-<video width="100%" controls>
-  <source src="demos/2025-06-22 17-37-58.mp4" type="video/mp4">
-</video>
+[![Two Actors on screen](https://img.youtube.com/vi/oQ_wfArl2cw/0.jpg)](https://www.youtube.com/watch?v=oQ_wfArl2cw)
 
 ### two_movies
 
-<video width="100%" controls>
-  <source src="demos/2025-06-22 17-40-04.mp4" type="video/mp4">
-</video>
+[![Two Actors on screen](https://img.youtube.com/vi/E9buDNeFVBo/0.jpg)](https://www.youtube.com/watch?v=E9buDNeFVBo)
 
 ## License
 
