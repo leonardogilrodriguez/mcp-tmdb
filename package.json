@@ -1,0 +1,25 @@
+{
+  "name": "mcp-tmdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "inspector": "npx -y @modelcontextprotocol/inspector tsx main.ts",
+    "dev:debug": "npx -y @modelcontextprotocol/inspector tsx --inspect=9229 main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.7.0",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1",
+    "@types/dotenv": "^8.2.3",
+    "dotenv": "^16.5.0",
+    "zod": "^3.25.55"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
